@@ -9,6 +9,6 @@ package zoo;
  *
  * @author twist
  */
-public class Zoo {
+public class Animal {
     
 }
