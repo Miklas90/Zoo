@@ -9,6 +9,25 @@ package zoo;
  *
  * @author twist
  */
-public class Animal {
+public abstract class Animal {
+    
+    
+    public int amountOfLegs()
+    {
+        
+        
+        return
+                
+    }
+    
+    public String gender()
+    {
+        
+        
+        return
+                
+    }
+    
+    public abstract String makeSound();
     
 }
