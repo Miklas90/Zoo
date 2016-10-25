@@ -16,6 +16,21 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        z.allAnimalsMakeSound();
+        z.Countlegs();
+        z.getNumberOfGender("male");
+        
+        
     }
     
 }
