@@ -5,10 +5,15 @@
  */
 package zoo;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author twist
  */
 public class Zoo {
+    
+    List<Animal> animals = new ArrayList<>();
     
 }
