@@ -1,0 +1,4 @@
+z.allAnimalsMakeSound();
+z.Countlegs();
+z.getNumberOfGender("male");
+
